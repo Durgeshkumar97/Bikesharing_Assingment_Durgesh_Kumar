@@ -1,30 +1,28 @@
-# Bikesharing_Assingment
-This assignment is a programming assignment wherein you have to build a model for the prediction of demand for shared bikes.
+# Bikesharing Assignment
 
-# General Information
+This programming assignment focuses on building a model for predicting the demand for shared bikes.
 
-Problem Statement A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
+## General Information
 
-A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic.The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.
+### Problem Statement
+A bike-sharing system provides bikes for shared use to individuals on a short-term basis, typically for a fee or free of charge. Users can borrow bikes from designated docks and return them to any other dock within the same system. 
 
-In such an attempt, BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19. They have planned this to prepare themselves to cater to the people's needs once the situation gets better all around and stand out from other service providers and make huge profits.
+The US bike-sharing provider, BoomBikes, has experienced a decline in revenues due to the ongoing COVID-19 pandemic. To revitalize their business post-lockdown and economic recovery, BoomBikes aims to understand the demand for shared bikes among people once the quarantine ends. They have collected a dataset on daily bike demands across the American market and wish to identify factors influencing bike demand.
 
-They have contracted a consulting company to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market.
+### Business Goal
+The goal is to model the demand for shared bikes using available independent variables. This model will assist management in understanding demand dynamics, adjusting business strategies, and meeting customer expectations.
 
-Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors.
+## Technologies Used
+- Python
+- Jupyter Notebook
 
-The company wants to know:
-Which variables are significant in predicting the demand for shared bikes. How well those variables describe the bike demands.
-Business Goal: It is required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market..
+## Conclusion
+Developed a model to identify significant variables affecting the demand for shared bikes. This model enables management to understand demand variations with different features and tailor business strategies accordingly.
 
-We used Bike Sharing dataset - day.csv
+## Acknowledgements
+- This project was based on the bike assignment given.
 
-# Technologies Used
 
-•	Python
-•	jupyter notebook
-
-# Conclusions
 
 Developed a model to find the variables which are significant to the demand for shared bikes with the available independent variables.
 
