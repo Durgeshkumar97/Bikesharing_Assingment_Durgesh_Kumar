@@ -2,7 +2,7 @@
 
 This programming assignment focuses on building a model for predicting the demand for shared bikes.
 
-## General Information
+## General Information----
 
 ### Problem Statement
 A bike-sharing system provides bikes for shared use to individuals on a short-term basis, typically for a fee or free of charge. Users can borrow bikes from designated docks and return them to any other dock within the same system. 
